@@ -1,7 +1,7 @@
 Amazon Clone Project using HTML & CSS:
 
 Amazon Clone
-
+    
 A fully functional e-commerce platform built using HTML and CSS.
 
 Features:
